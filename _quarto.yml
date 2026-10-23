@@ -15,8 +15,15 @@ format:
   html:
     theme: sandstone
     mainfont: timesnewroman
+    fontsize: 1.25rem
+    fontcolor: "#070708"
+    linkcolor: "#092991"
+    monofont: timesnewroman
     css: styles.css
     toc: true
+    
+#I wanted the font to be professional and dakr to contrast the background and the 
+#link color to be similar to other links in dark blue
 
 editor: visual
 
