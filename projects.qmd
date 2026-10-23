@@ -8,4 +8,6 @@ about:
 
 <embed src="PolicyMemo8.pdf" type="application/pdf" width="100%" height="600px">
 
+[Download Policy Memo](PolicyMemo8.pdf){target="_blank"}[ ](Resume2026.pdf){target="_blank"}
+
 The assignment here was to review a case study from the Harvard Kennedy School. The case demonstrated Jamaica's PATH program and asked students to review the goals of the program and identify the best design for the program's assessment. The policy memo is meant to mimic a memo that would be sent to the Minister of Labor and Social Security offering a recommendation for their PATH program. The assignment demonstrates the skills of policy assessment and evaluation. Policy is only as good as those that develop and know how to properly evaluate it, this assignment helps builds my policy development and processing skills.

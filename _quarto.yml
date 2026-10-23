@@ -7,8 +7,9 @@ website:
     left:
       - href: index.qmd
         text: About Me
-      - about.qmd
       - resume.qmd
+      - href: projects.qmd
+        text: Past Project
 
 format:
   html:
