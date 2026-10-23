@@ -1,11 +1,20 @@
 ---
-title: "Showcase"
+title: "Aimee Soto"
+about:
+  template: trestles
+  image: Aimee_S.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/aimeesoto27
+    - icon: linkedin
+      text: Linkedin
+      href: www.linkedin.com/in/aimeesoto27
+    - icon: envelope
+      text: Email
+      href: mailto:asoto42@uic.edu
 ---
 
-This is a Quarto website.
+## About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Aimee Soto is a master's student of Civic Analytics at the University of Illinois Chicago. She currently works with the Government Finance Research Center on two research projects pertaining to Illinois cannabis and expenditure forecasting. Aimee enjoys spending time with her loved ones and exploring new parts of Chicago.
