@@ -1,9 +1,12 @@
 ---
 title: "About"
+about:
+  template: trestles
+  image: Aimee_S.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/aimeesoto27
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+About Me

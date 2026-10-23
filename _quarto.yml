@@ -11,9 +11,8 @@ website:
 
 format:
   html:
-    theme:
-      - sandstone
-      - brand
+    theme: sandstone
+    mainfont: timesnewroman
     css: styles.css
     toc: true
 
