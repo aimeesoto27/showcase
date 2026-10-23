@@ -1,5 +1,9 @@
 project:
   type: website
+  output-dir: docs
+  resources:
+    - PolicyMemo8.pdf
+    - resume2026.pdf
 
 website:
   title: "Portfolio"
@@ -7,7 +11,8 @@ website:
     left:
       - href: index.qmd
         text: About Me
-      - resume.qmd
+      - href: resume.qmd
+        text: Resume
       - href: projects.qmd
         text: Past Project
 
